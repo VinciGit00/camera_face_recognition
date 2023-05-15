@@ -21,4 +21,3 @@ EMAIL_SENDER=your_email
 EMAIL_PASSWORD=your_password
 EMAIL_RECEIVER=your_mail
 ```
-
