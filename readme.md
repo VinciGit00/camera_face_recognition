@@ -4,7 +4,8 @@ This is an open source for creating a functioning camera from an old pc.
 Every time a person is recognised from the camera an email is sent to the owner of the pc.
 #Example of usage
 If you are running the program and a personn is detected an email is sent to you. 
-<img width="1068" alt="Schermata 2023-05-15 alle 15 43 43" src="https://github.com/VinciGit00/camera_face_recognition/assets/88108002/f2432f12-92c8-4cb0-b444-ae9dbe616571">
+<img width="1158" alt="Schermata 2023-05-29 alle 19 42 37" src="https://github.com/VinciGit00/camera_face_recognition/assets/88108002/6637e9a2-eeb3-4f57-8a25-8307a49913da">
+
 
 
 `https://www.youtube.com/watch?v=HXDD7-EnGBY`
